@@ -1,8 +1,8 @@
 # Site settings
-title:       A Journal
+title:       Artless Thoughts
 email:       maikzord@gmail.com
 author:      Huge Paw
-description: "A journal."
+description: "Why are you here?"
 baseurl:     ""
 url:         "https://hugepaw.github.io"
 date_format: "%b %-d, %Y"
@@ -113,7 +113,7 @@ markdown:     kramdown
 redcarpet:
   extensions: ['smart', 'tables', 'with_toc_data']
 permalink:    pretty
-paginate:     4
+paginate:     7
 sass:
   style: compressed
 plugins:
